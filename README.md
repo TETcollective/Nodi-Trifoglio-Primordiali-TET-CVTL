@@ -51,6 +51,17 @@ Questo repository e tutti i suoi contenuti sono rilasciati sotto
 **Testo:**
 Soliman, S. (2026). *Nodi Trifoglio Primordiali come Intrecci Eterni di Anyon: Unicità Game-Theoretic e Meccanismo di Estrazione Topologica di Coppia dal Vuoto nel Framework TET–CVTL*. Preprint TET Collective, Febbraio 2026. Disponibile su GitHub: https://github.com/PhysSoliman/Nodi-Trifoglio-Primordiali-TET-CVTL
 
+## Citazione / How to Cite
+
+Questa versione del lavoro è archiviata in modo permanente e citabile su Zenodo con DOI ufficiale.
+
+**Citazione raccomandata (formato APA-like):**
+
+Soliman, S. (2026). *Eternal Anyon Braids in Primordial Trefoil Knots: Game-Theoretic Uniqueness and Topological Pair Extraction from the Vacuum in the TET–CVTL Framework* (Version 1.0) [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.18770433
+
+**Citazione BibTeX (da copiare direttamente):**
+
+```bibtex
 @misc{soliman2026eternal,
   author       = {Soliman, Simon},
   title        = {Eternal Anyon Braids in Primordial Trefoil Knots: Game-Theoretic Uniqueness and Topological Pair Extraction from the Vacuum in the TET--CVTL Framework},
@@ -60,5 +71,5 @@ Soliman, S. (2026). *Nodi Trifoglio Primordiali come Intrecci Eterni di Anyon: U
   version      = {1.0},
   doi          = {10.5281/zenodo.18770433},
   url          = {https://doi.org/10.5281/zenodo.18770433},
-  note         = {Preprint. TET Collective, Roma, Italy}
+  note         = {Preprint. TET Collective, Roma, Italy. GitHub: https://github.com/TETcollective/Nodi-Trifoglio-Primordiali-TET-CVTL}
 }
