@@ -3,7 +3,6 @@ Nodi Trifoglio Primordiali come Intrecci Eterni di Anyon: Unicità Game-Theoreti
 
 
 
-
 # Nodi Trifoglio Primordiali come Intrecci Eterni di Anyon  
 **Unicità Game-Theoretic e Meccanismo di Estrazione Topologica di Coppia dal Vuoto**  
 **nel Framework TET–CVTL**
