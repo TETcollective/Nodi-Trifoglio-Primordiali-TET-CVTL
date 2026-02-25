@@ -31,3 +31,34 @@ Sito: [tetcollective.org](https://tetcollective.org)
 ---
 
 ## Struttura del Repository
+
+
+
+
+## Licenza
+Questo repository e tutti i suoi contenuti sono rilasciati sotto  
+**Creative Commons Attribuzione-NonCommerciale-NonOpereDerivate 4.0 Internazionale (CC BY-NC-ND 4.0)**.
+
+- Puoi condividere (riprodurre, distribuire, comunicare) solo per scopi **non commerciali**.
+- **Vietato** modificare, creare opere derivate o usare commercialmente.
+- Obbligatoria l’attribuzione corretta.
+
+**Deed leggibile (italiano):** https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it  
+**Codice Legale completo:** https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.it
+
+## Come citare (raccomandato)
+**Testo:**
+Soliman, S. (2026). *Nodi Trifoglio Primordiali come Intrecci Eterni di Anyon: Unicità Game-Theoretic e Meccanismo di Estrazione Topologica di Coppia dal Vuoto nel Framework TET–CVTL*. Preprint TET Collective, Febbraio 2026. Disponibile su GitHub: https://github.com/PhysSoliman/Nodi-Trifoglio-Primordiali-TET-CVTL
+
+**BibTeX:**
+```bibtex
+@misc{soliman2026tetcvtl,
+  author       = {Soliman, Simon},
+  title        = {Nodi Trifoglio Primordiali come Intrecci Eterni di Anyon: Unicità Game-Theoretic e Meccanismo di Estrazione Topologica di Coppia dal Vuoto nel Framework TET--CVTL},
+  year         = {2026},
+  month        = {Febbraio},
+  note         = {Preprint. TET Collective, Roma, Italy},
+  url          = tetcollective.org
+{https://github.com/TETcollective/Nodi-Trifoglio-Primordiali-TET-CVTL},
+  orcid        = {0009-0002-3533-3772}
+}
